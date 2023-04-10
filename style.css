@@ -1,0 +1,25 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Delius Unicase', cursive;
+}
+
+canvas{
+  border:5px dashed rgb(111, 0, 255);
+  box-shadow: 15px 15px 10px rgb(100, 47, 107);
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    color:azure;
+    width:100%;
+    background-color: darkslategrey;
+    height:30px;
+    border-radius:10px;
+    font-size: 25px;
+    font-family:cursive;
+}
